@@ -1,0 +1,2 @@
+class Thruster(object):
+    pass

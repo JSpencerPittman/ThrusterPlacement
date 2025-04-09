@@ -1,0 +1,2 @@
+class Boat(object):
+    pass
